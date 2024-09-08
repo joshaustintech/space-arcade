@@ -23,3 +23,7 @@ Cargo.lock
 # Added by cargo
 
 /target
+
+web/space_arcade.wasm
+web/space-arcade.js
+.vscode
